@@ -1,0 +1,33 @@
+[
+    {
+        "kind": "sj#track",
+        "title": "Quack Fat (Spoonbill Remix)",
+        "artist": "OPIUO",
+        "composer": "",
+        "album": "Meraki Remixed",
+        "albumArtist": "OPIUO",
+        "year": 2014,
+        "trackNumber": 3,
+        "genre": "Dance/Electronic",
+        "durationMillis": "285000",
+        "albumArtRef": [
+            {
+                "url": "http://lh3.googleusercontent.com/Ofz4yDNO6-cwq030X1ELfTsf3Z685ObgaKsmAqgKezrmcrAfQoeelNuw1_w3UUnaT_wGSwJfyw"
+            }
+        ],
+        "discNumber": 1,
+        "estimatedSize": "11412402",
+        "trackType": "7",
+        "storeId": "Txletbsjqqjcm3mhjbrssqyr67e",
+        "albumId": "ailulupq4eeavc3qx7yb24mtxu",
+        "artistId": [
+            "4nbqupnpsxpv5fbjxa7zbzwxa4",
+            "vpakmghthy5oqqilbui7k4cshy"
+        ],
+        "nid": "xletbsjqqjcm3mhjbrssqyr67e",
+        "trackAvailableForSubscription": true,
+        "trackAvailableForPurchase": true,
+        "albumAvailableForPurchase": true,
+        "contentType": "2"
+    }
+]
